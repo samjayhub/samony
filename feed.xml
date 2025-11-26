@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
     <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>            
-    <title>Samony Podcast</title>
+   <title>Samony Podcast</title>
     <link>https://www.samony.com.ng/podcast</link>
     <language>en-us</language>
     <itunes:author>Samuel Jeje</itunes:author>
@@ -15,9 +15,10 @@
     <itunes:category text="Government"/>
     <itunes:explicit>no</itunes:explicit>
     <description>Samony Podcast gives you fast trend updates in audio form. You get the top stories in tech, sport, politics, lifestyle, culture, and entertainment. Each episode is short and direct. You stay informed without scrolling. You save time. You stay ahead.</description>
-    <pubDate>Wed, 26 Nov 2025 21:08:02 GMT</pubDate>
-    <lastBuildDate>Wed, 26 Nov 2025 21:08:02 GMT</lastBuildDate>
-      
+    <pubDate>Wed, 26 Nov 2025 21:16:41 GMT</pubDate>
+    <lastBuildDate>Wed, 26 Nov 2025 21:16:41 GMT</lastBuildDate>
+    
+    
     <item>
       <title>Nigeria&apos;s Abduction Crisis: A Nation Under Siege</title> 
       <link>https://drive.google.com/export?id=1JVX_uNW81fJZ_TEgBhvn2VdYBJ7SfMFk&format=xml</link>      
